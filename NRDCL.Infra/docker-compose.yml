@@ -1,0 +1,27 @@
+version: "3.8"
+      
+services:
+  postgres:
+    image: postgres
+    container_name: nrdcl_microservice_postgres
+    environment: 
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports: 
+      - 5432:5432
+    volumes: 
+      - postgresdata:/var/lib/postgresql
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: nrdcl_microservices_rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672
+    volumes: 
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq
+
+volumes: 
+  postgresdata:
+  rabbitmqdata:

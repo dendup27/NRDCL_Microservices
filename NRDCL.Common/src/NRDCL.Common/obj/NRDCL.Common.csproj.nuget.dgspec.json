@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ePIS\\.NET Core Development\\NRDCL_Microservices\\NRDCL.Common\\src\\NRDCL.Common\\NRDCL.Common.csproj": {}
+  },
+  "projects": {
+    "D:\\ePIS\\.NET Core Development\\NRDCL_Microservices\\NRDCL.Common\\src\\NRDCL.Common\\NRDCL.Common.csproj": {
+      "version": "1.0.6",
+      "restore": {
+        "projectUniqueName": "D:\\ePIS\\.NET Core Development\\NRDCL_Microservices\\NRDCL.Common\\src\\NRDCL.Common\\NRDCL.Common.csproj",
+        "projectName": "NRDCL.Common",
+        "projectPath": "D:\\ePIS\\.NET Core Development\\NRDCL_Microservices\\NRDCL.Common\\src\\NRDCL.Common\\NRDCL.Common.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ePIS\\.NET Core Development\\NRDCL_Microservices\\NRDCL.Common\\src\\NRDCL.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ePIS\\.NET Core Development\\Microservices\\packages": {},
+          "D:\\ePIS\\.NET Core Development\\NRDCL_Microservices\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

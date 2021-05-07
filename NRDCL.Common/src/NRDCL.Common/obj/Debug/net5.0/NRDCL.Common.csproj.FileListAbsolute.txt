@@ -1,0 +1,12 @@
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\bin\Debug\net5.0\NRDCL.Common.deps.json
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\bin\Debug\net5.0\NRDCL.Common.dll
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\bin\Debug\net5.0\ref\NRDCL.Common.dll
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\bin\Debug\net5.0\NRDCL.Common.pdb
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.csprojAssemblyReference.cache
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.AssemblyInfoInputs.cache
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.AssemblyInfo.cs
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.csproj.CoreCompileInputs.cache
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.dll
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\ref\NRDCL.Common.dll
+D:\ePIS\.NET Core Development\NRDCL_Microservices\NRDCL.Common\src\NRDCL.Common\obj\Debug\net5.0\NRDCL.Common.pdb
